@@ -1,1 +1,1 @@
-# anime-name-generator
+# anime-image-generator
